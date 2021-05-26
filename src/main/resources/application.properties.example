@@ -1,0 +1,6 @@
+server.port=8083
+check.interval=86400000
+mail.list=<lista_maili_na_ktore_chcemy_wysylac_wiadomosci_oddzielona_przecinkami>
+mail.user=<mail_w_domenie_gmail.com>
+mail.password=<haslo_do_mail.user>
+camel.springboot.main-run-controller=true
